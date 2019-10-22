@@ -1,16 +1,13 @@
 {
-    "name": "xethron/laravel-4-generators",
+    "name": "mediactive-digital/laravel-4-generators",
     "description": "Rapidly generate resources, migrations, models, and much more.",
     "license": "MIT",
-    "authors": [
-        {
-            "name": "Jeffrey Way",
-            "email": "jeffrey@jeffrey-way.com"
-        }
-    ],
+    "authors": [{
+		"name": "Mediactive Digital"
+	}],
     "require": {
         "php": ">=5.4.0",
-        "illuminate/support": "~5.0"
+        "illuminate/support": "~6.0"
     },
     "require-dev": {
         "phpspec/phpspec": "~2.0",

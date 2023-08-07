@@ -35,7 +35,7 @@ return [
 
     'migration_target_path'   => base_path('database/migrations'),
 
-    'seed_target_path'   => base_path('database/seeds'),
+    'seed_target_path'   => base_path('database/seeders'),
 
     'view_target_path'   => base_path('resources/views')
 
